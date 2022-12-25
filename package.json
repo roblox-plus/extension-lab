@@ -1,0 +1,8 @@
+{
+  "name": "roblox.plus",
+  "version": "3.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
