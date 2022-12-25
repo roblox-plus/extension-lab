@@ -17,5 +17,11 @@
 
   "content_scripts": [],
 
+  "host_permissions": [
+    "https://*.roblox.com/*",
+    "https://*.roblox.plus/*",
+    "https://*.rbxcdn.com/*"
+  ],
+
   "permissions": ["contextMenus", "notifications", "tts"]
 }
